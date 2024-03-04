@@ -5,7 +5,7 @@
     Lorem Espum
     </div>
     <div>
-    spotify
+    [[https://spotify-github-profile.vercel.app/api/view.svg?uid=31r6qkpdvo6lqoo2hr5h67hkfbki&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31r6qkpdvo6lqoo2hr5h67hkfbki&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false)]]
     </div>
 </div>
 
