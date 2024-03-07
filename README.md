@@ -26,4 +26,4 @@
 
 <p  align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=AkshAy-K125&theme=dark&background=000000"  /></p>
 
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshAy-K125&hide_progress=true" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshAy-K125&hide_progress=true" /></p>
