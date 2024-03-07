@@ -8,7 +8,7 @@
 <h4  align="center">I'm a self thought, passionate, Data Engineer, working in Bahrain, at Alnisr Aluminium & Metal Fabrications</h4>
 
   
-<p align="center"><iframe src="https://spotify-github-profile.vercel.app/api/view?uid=31r6qkpdvo6lqoo2hr5h67hkfbki&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false"></p>
+<p align="center"><iframe src="https://spotify-github-profile.vercel.app/api/view?uid=31r6qkpdvo6lqoo2hr5h67hkfbki&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false"></iframe></p>
 
 <h4  align="center"> Languages & Tools 🛠</h4>
 
@@ -26,4 +26,4 @@
 
 <p  align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=AkshAy-K125&theme=dark&background=000000"  /></p>
 
-<p align="center"><iframe frameborder=0 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshAy-K125&hide_progress=true"></p>
+<p align="center"><iframe frameborder=0 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshAy-K125&hide_progress=true"></iframe></p>
